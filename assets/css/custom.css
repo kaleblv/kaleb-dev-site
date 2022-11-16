@@ -9,6 +9,7 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
+    margin-right: 0;
  }
 
  .c-clients li {
@@ -27,4 +28,15 @@
     margin-bottom: 10px;
  }
 
+ .view-more-btn {
+    display: none;
+}
+
+
+ @media screen and (min-width: 1024px) {
+    .view-more-btn {
+        display: block;
+    }
+    
+ }
  
