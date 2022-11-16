@@ -2052,6 +2052,7 @@ h6 { font-size: 16px; }
 }
 .cavani_tm_contact .short_info ul li .list_inner{
 	width: 100%;
+	min-width: 281px;
 	height: 100%;
 	clear: both;
 	float: left;
