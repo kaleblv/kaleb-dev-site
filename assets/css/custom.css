@@ -3,3 +3,28 @@
  *
  * Here you can add your custom CSS code.
  */
+
+
+ .c-clients {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+ }
+
+ .c-clients li {
+    margin: 0;
+ }
+
+ .c-clients img.mastercard-logo {
+    max-height: 60px;
+ }
+
+ .spacer-bt-20 {
+    margin-bottom: 20px;
+ }
+
+ .spacer-bt-10 {
+    margin-bottom: 10px;
+ }
+
+ 
