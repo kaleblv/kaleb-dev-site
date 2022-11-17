@@ -37,6 +37,24 @@
 }
 
 
+.c-image-overlay img {
+    border: 1px solid #b8b8b8;
+}
+
+
+.t-image-overlay {
+    background: #252525;
+}
+
+.t-image-overlay * {
+    color: #ececec;
+}
+
+.t-image-overlay__deco-line {
+    color: #535353;
+    background: #ececec;
+}
+
  @media screen and (min-width: 1024px) {
     .view-more-btn {
         display: block;
