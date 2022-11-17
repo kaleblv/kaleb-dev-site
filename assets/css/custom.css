@@ -32,6 +32,10 @@
     display: none;
 }
 
+.t-title__first-word {
+    text-transform: uppercase;
+}
+
 
  @media screen and (min-width: 1024px) {
     .view-more-btn {
